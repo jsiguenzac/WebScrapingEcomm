@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+pandas
+XlsxWriter
+selenium
+pyinstaller
+webdriver_manager
